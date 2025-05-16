@@ -1,0 +1,12 @@
+[
+  {
+    "login": "lina22",
+    "data": {
+      "first_name": "gAAAAABoJoohIr_s9-qKHsLanxCCPV2bqk0ZNQQRmiEjEYE0qsmEUQ6E4SwCufYpX-IKzhYOLtuebNwmVUeYxzqAZFfhBAcYXQ==",
+      "last_name": "gAAAAABoJoohJEYX2FrJE1RztkMIyWE2n58Z9ooO3p00JTv9PSnnvvQx5rpMei6uk8GtNkjaTMi6nsxE1hd4phs3X1Np5fpWng==",
+      "patronymic": "gAAAAABoJoohlydg_71J1NEyr8Rd9yaamyT-7bdqS4JjVU4P1BLkvBFxbbQQ1WhpUJgb6VBBHneG-zcCTsLkGJwI7svE3Tf6S3X7HMhOx5aK7eZPalmCZJ8=",
+      "salt": "87d92d1a04371cc18a4234e7ba64f5306f3bd56e4c19e422eeeb52c4adc3d0f1",
+      "hashed_password": "1af0d95a054252c8a9b2d2c9a779178c5cb374c36b5c082a33757745ad14caa3"
+    }
+  }
+]

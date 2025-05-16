@@ -1,0 +1,44 @@
+{
+  "group": null,
+  "course": null,
+  "students": [
+    {
+      "login": "student1",
+      "data": {
+        "first_name": "gAAAAABoJo2LZ2Z_OMYdvRXlqfRq-UcHhpi1-MsiamPZMBW1G8MjOFbXD6EcDyinhIePM1loSkGU54h6lskR4UPByVfDeWk-uA==",
+        "last_name": "gAAAAABoJo2Ln_o6U_tVbToGM1QPfkYvrsQFP9HKKcw5LSgYPD5nHeAV5yKYVvud02xVcnRTC-B7jXQs1ZAQeaya2gVLH5JVfw==",
+        "patronymic": "gAAAAABoJo2Lz5-Wia2Q86jZbvnUIHQVuzQP_iwxqqirVDu4fYCSUo7xcqpTI3ALHb2aZ3ueFD43e01sEJWJhYUZbGZKfr2dAo4tmQX9NRGw1Ee4TcIwNT8=",
+        "salt": "ff1df543779fa401dfa3f8a148b95c5ab4ee15af8d72bd43e6cf8cfdd884c195",
+        "hashed_password": "85b8b8d7cdb2efb044534ec26ad57f9af8780a7ccfa9f42a9970ec4592edea8f"
+      },
+      "serial_number": null
+    },
+    {
+      "login": "den12",
+      "data": {
+        "first_name": "gAAAAABoJo2L8ukcNCB2nYkPxKP6Ae1p-py9qlno5yPKR7z4qRwJcs9WBXkw7mWwcPXPh1qNOlIlTfqwPDrOThPPzS-lkf6Chw==",
+        "last_name": "gAAAAABoJo2LR8kzAB4txKsZibZI5sQoEE0aYF9e5ksL8LYawCEdyPPFgEzdYbpzS5MZ-tTZJhDR3cumXwoz__bGpcH9-p15xA==",
+        "patronymic": "gAAAAABoJo2LS33TGidAxtm2fYvQkcJOyfhJBhUjuDtdrm028ylmoKRzYBNM99zWTPZKFg5RTSCBpTtLQD4kd5Qs8FrGvCrubrbjHlqn_p2flTm1L4VusBc=",
+        "salt": "8d15dfc2b2beefbc9be40aaa01840d3eb4a073dd5b6290b66caf30661089722d",
+        "hashed_password": "ecda413f87cb7d7256822cd7df02cf05698360e433b3e345189923ece824a247"
+      },
+      "serial_number": null
+    }
+  ],
+  "subjects": [
+    {
+      "name": "математика",
+      "pairs": [
+        {
+          "date": "2025-05-15T12:30:00",
+          "topic": "Теория Вероятности и Статистики",
+          "grades": {
+            "den12": 5
+          },
+          "absentees": []
+        }
+      ],
+      "final_grades": {}
+    }
+  ]
+}
